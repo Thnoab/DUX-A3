@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "Assets/\u573A\u666F\u4E00/SimpleNaturePack_Demo.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
