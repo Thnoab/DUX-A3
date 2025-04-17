@@ -392,6 +392,7 @@
 -analyzer:"D:/Unity 编辑器/2023.2.0f1c2/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity 编辑器/2023.2.0f1c2/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"D:/Unity 编辑器/2023.2.0f1c2/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/Enemy.cs"
 "Assets/Scripts/FollowTarget.cs"
 "Assets/Scripts/InteractableObject.cs"
 "Assets/Scripts/PlayerMovement.cs"
