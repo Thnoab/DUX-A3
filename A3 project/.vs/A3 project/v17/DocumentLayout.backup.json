@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity\\\u6587\u4EF6\\A3 project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|e:\\unity\\\u6587\u4EF6\\a3 project\\assets\\_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|e:\\unity\\\u6587\u4EF6\\a3 project\\assets\\_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\uicoindisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\uicoindisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\diren\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\diren\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\diren\\ally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\diren\\ally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\diren\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\diren\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|E:\\unity\\\u6587\u4EF6\\A3 project\\assets\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B92D885-879C-D6CF-1308-57C9094B8D24}|Assembly-CSharp.csproj|solutionrelative:assets\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Coin.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\Coin.cs",
+              "RelativeToolTip": "Assets\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:58:15.356Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\PlayerInventory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:59:58.08Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_10.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\_10.cs",
+              "RelativeDocumentMoniker": "Assets\\_10.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\_10.cs",
+              "RelativeToolTip": "Assets\\_10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:28:54.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_01.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\_01.cs",
+              "RelativeDocumentMoniker": "Assets\\_01.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\_01.cs",
+              "RelativeToolTip": "Assets\\_01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:23:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ally.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\Ally.cs",
+              "RelativeDocumentMoniker": "Assets\\diren\\Ally.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\Ally.cs",
+              "RelativeToolTip": "Assets\\diren\\Ally.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:49:02.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\diren\\Enemy.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\Enemy.cs",
+              "RelativeToolTip": "Assets\\diren\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:45:14.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\diren\\PlayerInteraction.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\diren\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\diren\\PlayerInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:44:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UICoinDisplay.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\UICoinDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\UICoinDisplay.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\UICoinDisplay.cs",
+              "RelativeToolTip": "Assets\\UICoinDisplay.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:51:28.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:23:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "E:\\unity\\\u6587\u4EF6\\A3 project\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:16:22.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
