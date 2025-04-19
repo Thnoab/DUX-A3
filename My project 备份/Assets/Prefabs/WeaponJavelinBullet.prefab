@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5573417692759463758}
   - component: {fileID: -269155102247758498}
   - component: {fileID: -3777650734767497330}
-  - component: {fileID: 328158207228548234}
+  - component: {fileID: 5331932649477574371}
   m_Layer: 0
   m_Name: WeaponJavelinBullet
   m_TagString: Untagged
@@ -140,7 +140,7 @@ CapsuleCollider:
   m_Height: 1.81
   m_Direction: 2
   m_Center: {x: 0.0000009940545, y: -0.025809748, z: -0.7179321}
---- !u!114 &328158207228548234
+--- !u!114 &5331932649477574371
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -149,6 +149,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8206361440137953363}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d71fabdb9697a546b2527c31a08cf15, type: 3}
+  m_Script: {fileID: 11500000, guid: d60fcd9892998bd4a9cbc213d1ac094a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  atkValue: 30

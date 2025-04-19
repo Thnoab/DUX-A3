@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95072e2e4c4cbd548a1b3b1219632e7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackValue: 20
+  attackValue: 50
   bulletSpeed: 30
   bulletPrefab: {fileID: 8206361440137953363, guid: 14e61e0cb595dc64789ac01084392627, type: 3}
 --- !u!95 &1162596581644936826
@@ -118,6 +118,10 @@ PrefabInstance:
     - target: {fileID: 4094054138176153084, guid: 14e61e0cb595dc64789ac01084392627, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5331932649477574371, guid: 14e61e0cb595dc64789ac01084392627, type: 3}
+      propertyPath: atkValue
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 8206361440137953363, guid: 14e61e0cb595dc64789ac01084392627, type: 3}
       propertyPath: m_Name
