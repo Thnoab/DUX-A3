@@ -10377,7 +10377,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae4af32be1bf026488aec920a629a1e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weapon: {fileID: 853348571231384337}
+  weapon: {fileID: 0}
 --- !u!1001 &1736731160
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11836,6 +11836,51 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1576488453971394810, guid: a778b631c6253a04899cb31bad047c81, type: 3}
   m_PrefabInstance: {fileID: 2021558158}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2025170845
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2025170847}
+  - component: {fileID: 2025170848}
+  m_Layer: 0
+  m_Name: Manger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2025170847
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025170845}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.015578, y: 2.457803, z: 8.308977}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2025170848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025170845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 616029f0f32202146b9397a4f2645275, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDB: {fileID: 11400000, guid: 6321494782163fe43a40439adf30c372, type: 2}
 --- !u!1001 &2026507796
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12337,10 +12382,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 629682611}
     m_Modifications:
-    - target: {fileID: 751435132874630689, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1684925310905963095, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -12381,10 +12422,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3466767508448475644, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
-      propertyPath: m_Height
-      value: 1.81
-      objectReference: {fileID: 0}
     - target: {fileID: 8140946137430606141, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
       propertyPath: m_Name
       value: JavelinWeapon
@@ -12399,17 +12436,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1684925310905963095, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
   m_PrefabInstance: {fileID: 853348571231384332}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &853348571231384337 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: -8049133104721241447, guid: a47247815fdac5144b4ce5ac55cc0f1a, type: 3}
-  m_PrefabInstance: {fileID: 853348571231384332}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 95072e2e4c4cbd548a1b3b1219632e7e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -12429,3 +12455,4 @@ SceneRoots:
   - {fileID: 2140645079}
   - {fileID: 1035548293}
   - {fileID: 230332581}
+  - {fileID: 2025170847}

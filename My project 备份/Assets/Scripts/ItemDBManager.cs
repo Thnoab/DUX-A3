@@ -1,0 +1,26 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ItemDBManager : MonoBehaviour
+{
+    public static ItemDBManager Instance { get; private set; }
+    public ItemDBSO itemDB;
+
+    void Start()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(this.gameObject);
+            return;
+        }
+        Instance = this;
+    }
+
+    // 返回 ItemSO（或你的具体类型）
+    public ItemSO GetRandomItem()
+    {
+        int randomIndex = Random.Range(0, itemDB.itemList.Count);
+        return itemDB.itemList[randomIndex];
+    }
+}

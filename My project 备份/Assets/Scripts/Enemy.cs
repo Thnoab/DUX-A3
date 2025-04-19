@@ -52,6 +52,10 @@ public class Enemy : MonoBehaviour
                 }
             }
         }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(30);
+        }
     }
 
     Vector3 FindRandomPosition()
@@ -65,6 +69,20 @@ public class Enemy : MonoBehaviour
         HP -= damage;
         if (HP <= 0)
         {
+            GetComponent<Collider>().enabled = false;
+            int count = 2;
+            for(int i =0;i < count; i++)
+            {
+                ItemSO item = ItemDBManager.Instance.GetRandomItem();
+                print(transform.position);
+                GameObject go = GameObject.Instantiate(item.prefab, transform.position, Quaternion.identity);
+                Animator anim = go.GetComponent<Animator>();
+                if (anim != null)
+                {
+                    anim.enabled = false;
+                }
+              
+            }
             Destroy(this.gameObject);
 
         }
